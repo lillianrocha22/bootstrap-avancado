@@ -1,0 +1,17 @@
+.carousel-item img {
+    max-width: 90vw;
+    max-height: 90vh;
+    margin: 0 auto;
+}
+
+h2 {
+    margin: 16px auto;
+}
+
+#cards {
+    min-height: 90vh;
+}
+
+.card {
+    margin: 8px auto;
+}
